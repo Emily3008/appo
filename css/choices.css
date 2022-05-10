@@ -1,0 +1,14 @@
+.choices {
+    background-color: #f5f6fa;
+}
+
+.check-box {
+    display: flex;
+    flex-direction:row ;
+    align-items: center;
+}
+
+.content1 {
+    display: flex;
+    flex-direction: row;
+}
